@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5261915,
       "digest": "sha256:a42e54311f15175006c558aca8ae88366727dd80a101ba91bf8edcf419442e7a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_armhf.apk"
