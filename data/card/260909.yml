@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:01:43Z
+  collectedAt: 2026-09-09T19:07:38Z
 timeline:
   created: 2023-06-21
   lastCommit: 2026-08-20
@@ -84,7 +84,7 @@ total:
   commit: 203
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/pop
-collectedAt: 2026-09-09T05:01:44Z
+collectedAt: 2026-09-09T19:07:40Z
 loc:
   Go:
     code: 2048
