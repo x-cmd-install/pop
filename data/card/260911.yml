@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:01:58Z
+  collectedAt: 2026-09-11T19:57:05Z
 timeline:
   created: 2023-06-21
   lastCommit: 2026-08-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-20
   lastPrerelease: 
 popularity:
-  star: 2905
+  star: 2906
   watcher: 5
   fork: 74
   release: 7
@@ -84,7 +84,7 @@ total:
   commit: 203
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/pop
-collectedAt: 2026-09-11T05:01:59Z
+collectedAt: 2026-09-11T19:57:05Z
 loc:
   Go:
     code: 2048
