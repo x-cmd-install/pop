@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5103227,
       "digest": "sha256:4616c5dc6ff47c19972a54fe940571ee7bc07d4586bc54034df42eabd2e407e2",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0-1.i386.rpm"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4993950,
       "digest": "sha256:2a0e8cdc70c51e8e49af54e5e1a366b654376f7f673e2804f1c35ac0b31231ad",
-      "download_count": 329,
+      "download_count": 330,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Darwin_arm64.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 5299034,
       "digest": "sha256:5017aad5378fede81c5879e4205f869a5a94841df3b65649c0248ab1a6a3d536",
-      "download_count": 403,
+      "download_count": 405,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Linux_x86_64.tar.gz"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 5350060,
       "digest": "sha256:468ae20b88fd590f08d3b3995152aa463b5561079f8787951773d4c779ffe36a",
-      "download_count": 95,
+      "download_count": 105,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Windows_i386.zip"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 5465224,
       "digest": "sha256:5ef4ac43bb8b0ef256500dbce2d62ed79094742ec1d772a8d1f569c06b2e488e",
-      "download_count": 280,
+      "download_count": 289,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Windows_x86_64.zip"
