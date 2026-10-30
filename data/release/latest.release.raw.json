@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6335,
       "digest": "sha256:8b6872d1a4345e4961de90ead4cfb6fcc4a4807f11cbba9a7f986355f6b39ebe",
-      "download_count": 54,
+      "download_count": 55,
       "created_at": "2026-08-20T12:29:01Z",
       "updated_at": "2026-08-20T12:29:01Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10279,
       "digest": "sha256:6d8dc7f70cefd901841f3c21586638eb5740ca4e3760016f61ffb263873b7a10",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-08-20T12:29:01Z",
       "updated_at": "2026-08-20T12:29:01Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4786323,
       "digest": "sha256:b0704b8ef3311e6c1065182f20322671249abf6bea0321956aea77c418901301",
-      "download_count": 139,
+      "download_count": 140,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0-1.aarch64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5081047,
       "digest": "sha256:9935281cf4c9672a4326a02648e005563d65a09bce2f09c3cd8f767fd41ef79c",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-20T12:28:59Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0-1.armv6hl.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5071235,
       "digest": "sha256:cb129e54c0ba0510fa0a2cbde3a1122e9f534b0014469a172f81c0ed4d6f2570",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-20T12:28:59Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0-1.armv7hl.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5103227,
       "digest": "sha256:4616c5dc6ff47c19972a54fe940571ee7bc07d4586bc54034df42eabd2e407e2",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0-1.i386.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5292461,
       "digest": "sha256:aed1b505b3f1535a510ae4a93317bdc5d325af39b91232479f59f458fac929e1",
-      "download_count": 140,
+      "download_count": 142,
       "created_at": "2026-08-20T12:28:59Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0-1.x86_64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 34950,
       "digest": "sha256:8629d7fd341df78c28f9e7a1fc4dcaae540d8175fdd47077234aab8969e27bef",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 87108,
       "digest": "sha256:ac1bebb8e9f3c76d7d198cf9bcc98808e2ed74c02371d6777e4135736bdf0f07",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop-0.5.0.tar.gz.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4946500,
       "digest": "sha256:2e06445a916dcb8ddf122b135b64211ad1047907bf5ab6fae044fbb9a4aec792",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_aarch64.apk"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5300456,
       "digest": "sha256:9c4a5a79364b7274d804a86844afb7a37dda0070128be24733421c27cdabf350",
-      "download_count": 143,
+      "download_count": 144,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4808364,
       "digest": "sha256:ef386348fef8d49246554714f84205d4573359b85ce87f2ad32e972e4bfd4e10",
-      "download_count": 137,
+      "download_count": 138,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5261915,
       "digest": "sha256:a42e54311f15175006c558aca8ae88366727dd80a101ba91bf8edcf419442e7a",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_armhf.apk"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5096362,
       "digest": "sha256:849656cde542d4f224bd81f0600914d93fbb9d40694f2403e7416c51f0706577",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T12:28:59Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_armhf.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5105080,
       "digest": "sha256:d8ca4b96c6894c8daa9f9a74b6dacffd4b3d67da0ce636170c8acb2d45c0e2c4",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T12:28:59Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_armhf6.deb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 5251885,
       "digest": "sha256:62350c6d21cd70b4ccdf15b18cd36faf6e3199ba0769044301a37af14a6ea992",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_armv7.apk"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4993950,
       "digest": "sha256:2a0e8cdc70c51e8e49af54e5e1a366b654376f7f673e2804f1c35ac0b31231ad",
-      "download_count": 349,
+      "download_count": 350,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Darwin_arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 57656,
       "digest": "sha256:9312024bb5aebef4de87ea940707985f08a7a71efafaae8149fd383387d98c89",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Darwin_arm64.tar.gz.sbom.json"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5384290,
       "digest": "sha256:108dae3baad6610015ae523d26ab08a27d3d6993de9335549c1c13aabc2ca247",
-      "download_count": 147,
+      "download_count": 148,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Darwin_x86_64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 57771,
       "digest": "sha256:449f4e2e116435a20895de243660547ff11b4cb14279ee612c058189b1f07971",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Darwin_x86_64.tar.gz.sbom.json"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 4778410,
       "digest": "sha256:1e5ef9d2a29f6f6d6ca532e6100309063325b0af25cf1797603f8de18edfe215",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_arm64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 57771,
       "digest": "sha256:f4bb911f49ffe16089ae284b589b4b50c95edfbfa0a46e1b79b852114dd9ad8f",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_arm64.tar.gz.sbom.json"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 5081778,
       "digest": "sha256:f34eea380ae3ff1f4f8b5171dca8d93826eb255497a38829ee3f697232b829b9",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_armv6.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 57771,
       "digest": "sha256:73e283fada8171302ed1e6a1459094aa72157adf2d3e956a86961a2b9c8dd939",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_armv6.tar.gz.sbom.json"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 5069264,
       "digest": "sha256:8c3c23732874570174e45610eeaaf4cba0d0035632fba401c550102358b8a98d",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_armv7.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 57771,
       "digest": "sha256:6c83ce4f584d04eb18c53940e8aa1e564bdf93c202b3eafa6fad2a0d63f0bea2",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_armv7.tar.gz.sbom.json"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 5084224,
       "digest": "sha256:e4924873403ee0499c524b2d9e0be07bb19b2e09a843e4ef9f79134db7c7c2e4",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_i386.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 57656,
       "digest": "sha256:af4747f029e9e689b5b2bd00887a4e4ee97e10a47fdf5c63c0faa4b050fe310f",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-20T12:28:59Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_i386.tar.gz.sbom.json"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 5274332,
       "digest": "sha256:dd693af1ad71865a3e9eef8f6945cc3f8eee60bb9b4bf1576bb92722dc5b253d",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_x86_64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 57886,
       "digest": "sha256:e120554a80ca28914d4aa2a292fd286036f972ad8363365a98dc0f50436636fe",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Freebsd_x86_64.tar.gz.sbom.json"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 5118046,
       "digest": "sha256:82c6bedc0f503483631e45115e739f8deb81d870bd50322c64af0e8dc1f3631f",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-20T12:28:59Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_i386.deb"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 4808584,
       "digest": "sha256:79a4785d48548974a225ad44f160de447e627ba9291e973341c5fcb9fd96e0f5",
-      "download_count": 169,
+      "download_count": 170,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Linux_arm64.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 57541,
       "digest": "sha256:b924130d7fa63db244beb7dfe3dd13376a68d195e481a319c700cc5b57f60e26",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Linux_armv7.tar.gz.sbom.json"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 5299034,
       "digest": "sha256:5017aad5378fede81c5879e4205f869a5a94841df3b65649c0248ab1a6a3d536",
-      "download_count": 455,
+      "download_count": 457,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Linux_x86_64.tar.gz"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 57771,
       "digest": "sha256:bd8749862c694a8082e5cdc09338733038fb36f33c6e7e9104cbb1b856caaa6a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Netbsd_x86_64.tar.gz.sbom.json"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 57886,
       "digest": "sha256:26e5ccc7bd03c39b76d7e42e084da26227c1894dc3a4481c432257af21d82395",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Openbsd_x86_64.tar.gz.sbom.json"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 5350060,
       "digest": "sha256:468ae20b88fd590f08d3b3995152aa463b5561079f8787951773d4c779ffe36a",
-      "download_count": 167,
+      "download_count": 170,
       "created_at": "2026-08-20T12:28:57Z",
       "updated_at": "2026-08-20T12:28:58Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Windows_i386.zip"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 58776,
       "digest": "sha256:66240c07e03840589d11d5b9a699e3040db9e3741f87e8a6601b534a5e2edeb4",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:00Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Windows_i386.zip.sbom.json"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 5465224,
       "digest": "sha256:5ef4ac43bb8b0ef256500dbce2d62ed79094742ec1d772a8d1f569c06b2e488e",
-      "download_count": 355,
+      "download_count": 360,
       "created_at": "2026-08-20T12:28:58Z",
       "updated_at": "2026-08-20T12:28:59Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Windows_x86_64.zip"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 59012,
       "digest": "sha256:b50f3764d694394c845eebe43681b4e4d1cda5d8b3a5d6a98ccbbe93383189fd",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-20T12:29:00Z",
       "updated_at": "2026-08-20T12:29:01Z",
       "browser_download_url": "https://github.com/charmbracelet/pop/releases/download/v0.5.0/pop_0.5.0_Windows_x86_64.zip.sbom.json"
