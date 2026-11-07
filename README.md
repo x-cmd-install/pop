@@ -37,22 +37,22 @@ Total: **2,094** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,927 · **Forks**: 76 · **Open issues**: 41 · **Contributors**: 23
+- **Stars**: 2,927 · **Forks**: 77 · **Open issues**: 41 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 92 · **Open PRs**: 10 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 203
+- **Releases**: 7 · **Merged PRs**: 92 · **Open PRs**: 11 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 203
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 1 | 2 | 3 | 0 | 1 | 3 |
-| last180d | 2026-05-10 | 4 | 13 | 3 | 0 | 1 | 51 |
-| 360d | 2025-11-11 | 5 | 20 | 4 | 1 | 3 | 61 |
-| last720d | 2024-11-16 | 5 | 48 | 8 | 4 | 8 | 93 |
+| 30d | 2026-10-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 1 | 2 | 4 | 0 | 1 | 3 |
+| last180d | 2026-05-11 | 4 | 13 | 4 | 0 | 1 | 51 |
+| 360d | 2025-11-12 | 5 | 20 | 5 | 1 | 3 | 61 |
+| last720d | 2024-11-17 | 5 | 48 | 9 | 4 | 8 | 93 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for pop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:07:30Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:12:36Z._
