@@ -14,11 +14,11 @@ x install pop
 
 ## Code insight
 
-Total: **2,094** lines of code across **19** files in the top 5 languages.
+Total: **2,190** lines of code across **22** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,048 | 166 | 281 | 11 |
+| Go | 2,144 | 176 | 295 | 14 |
 | Yaml | 43 | 0 | 10 | 1 |
 | Dockerfile | 3 | 0 | 0 | 1 |
 | Markdown | 0 | 281 | 139 | 5 |
@@ -32,27 +32,27 @@ Total: **2,094** lines of code across **19** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-08-20)
-- **Last commit**: 2026-08-20
+- **Last commit**: 2026-11-09
 - **Assets in release**: 67
 
 ## Popularity
 
-- **Stars**: 2,927 · **Forks**: 77 · **Open issues**: 41 · **Contributors**: 23
+- **Stars**: 2,928 · **Forks**: 78 · **Open issues**: 41 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 92 · **Open PRs**: 11 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 203
+- **Releases**: 7 · **Merged PRs**: 93 · **Open PRs**: 10 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 1 | 2 | 4 | 0 | 1 | 2 |
-| last180d | 2026-05-13 | 4 | 13 | 4 | 0 | 1 | 51 |
-| 360d | 2025-11-14 | 5 | 20 | 5 | 1 | 3 | 61 |
-| last720d | 2024-11-19 | 5 | 48 | 9 | 4 | 8 | 93 |
+| 30d | 2026-10-11 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-08-12 | 1 | 3 | 3 | 0 | 1 | 3 |
+| last180d | 2026-05-14 | 4 | 14 | 3 | 0 | 1 | 52 |
+| 360d | 2025-11-15 | 5 | 21 | 4 | 1 | 3 | 62 |
+| last720d | 2024-11-20 | 5 | 48 | 8 | 4 | 8 | 94 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for pop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:47:08Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:32:59Z._
